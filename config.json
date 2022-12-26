@@ -1,0 +1,14 @@
+{
+  "team_count": 3,
+  "music_guess_delay": 3,
+  "show_main_window_borders": true,
+  "use_background_image": false,
+  "window_offset": [1, 32],
+  "question_window_size": [1034, 700],
+  "plot_offset_from_screen_edge": [50, 50],
+  "plot_size_in_pixels": [600, 300],
+  "numbers_on_bar_offset": 10,
+  "plot_font_size": 14,
+  "scaling_stuff": true,
+  "question_font_size": 18
+}
